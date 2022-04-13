@@ -82,7 +82,7 @@ enabling dynamic pricing, in which the price of a ride, or the trip fee is deter
 •	using passenger location information, and communications between passenger and drivers, to identify cancellation fees earned or induced through fraud. For example, if we determine by using such information that a driver is delaying a rider pickup in order to induce a cancellation, we will not charge the rider a cancellation fee and will adjust the amounts paid to the driver to omit such a fee.
 
 •	Using users data (such as location and rating ) to help avoid pairings of users that may result in increased risk of conflict.
-Rideit performs the above activities on the grounds that they are necessary to fulfill our obligations to users under our Terms of Use or other agreements with users, or on the grounds that they are necessary for purposes of the legitimate interests of Uber, its users and others.
+Rideit performs the above activities on the grounds that they are necessary to fulfill our obligations to users under our Terms of Use or other agreements with users, or on the grounds that they are necessary for purposes of the legitimate interests of Rideit Driver
 
 ### Data sharing and disclosure
 Some of rideit services and features require that we share personal data with other users or at a user’s request. 
