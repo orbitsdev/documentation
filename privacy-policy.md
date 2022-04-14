@@ -8,31 +8,34 @@ This is an open source Android app developed by Brian Orbino and Dolph Gio Bolan
 ### Introduction
 Rideit is a ride service app project we develop as necessity to finish our course degree taken. This project does not involve or own by a big company.
 
-When you use Rideit, you trust us with your personal data. We’re committed to keeping that trust. That starts with helping you understand our privacy practices. This notice describes the personal data we collect, how it’s used and shared. We recommend that you read this along with our privacy overview, which highlights key points about our privacy practices and a requirement t.
+When you use Rideit, you trust us with your personal data. We’re committed to keeping that trust. That starts with helping you understand our privacy practices. This notice describes the personal data we collect, how it’s used and shared. We recommend that you read this along with our privacy overview, which highlights key points about our privacy practices and a requirementt.
 
 ### Overview
 
 A. Scope
-This notice applies to users of Rideite services anywhere in the Philippines
+This notice applies to users of Rideit services anywhere in the Philippines
 This notice describes how Rideit and its affiliates collect and use personal data. This notice applies to all users of our apps, This notice specifically applies to:
 Passengers of Isulan: individuals who request ride transportation.
 
 B. Data controller and transfer
-Rideit use Google Firebase Services to store data and we the developer of ride project are the data controller for the personal data collected in connection of rideit services.  
+Rideit use Google Firebase Services to store data and we the developer of Rideit project are the data controller for the personal data collected in connection of rideit services.  
 
 ### Data collections and uses
-Ridite collects personal data provided by users to Rideit, such as during account creation and created during use of our services, such as location, app usage, and device data. The following personal data is collected by or on behalf of Rideit.
+This app collects personal data provided by users , such as during account creation and created during use of our services, such as location, app usage, and device data. The following personal data is collected by or on behalf of Rideit.
 
 A. Collection
 I User profile
-We collect data when users create or update their Rideit accounts. This may include their name, email, phone number, login name and password, address, profile picture.
+This app collect data when users create or update their Rideit accounts. This may include their name, email, phone number, login name and password, address, profile picture.
 
 II Travel information
-We collect travel itinerary information, including the times and dates .We collect such information:  when users request ride or the trip is completely finish. Rieit will only access users information to collect travel itinerary information to enable the Passenger 
-Request feature, and will adhere to Google’s API Services User Data Policy, including the limitations on use of data collected from users.
+This app collect travel itinerary information, including the times and dates .The app collect such information:  when users send request ride or the trip is completely finish.
+This app collect travel itinerary information to enable the passenger request feature, and will adhere to Google’s API Services User Data Policy, including the limitations on use of data collected from users.
  
 III Location data of passenger:
-We collect precise or approximate location data, to enable and enhance use of our apps,  including rides service, to enable ride tracking and safety features, to prevent and detect fraud, and to satisfy legal requirements. Ride it collects this data when the Rideit app is running in the foreground (app open and on-screen) or background (app open but not on-screen) of their mobile device. We collect such data from users’ mobile devices if they enable us to do so. Rideit collects such data from the time passenger equest ride  until the trip completed. Passenger cannot use Rideit apps without enabling location Rideit. Rideit must collect precise location data from their mobile devices because This may affect features in the Rideit apps. For example, a passenger who wan to request ride for transportation in order for google map to provide route.the app need to get the current location of the passenger and the selected destionation.
+Rideit collects precise or approximate location data, to enable and enhance use of our apps,  including rides service, to enable ride tracking and safety features, to prevent and detect fraud, and to satisfy legal requirements. 
+This app collects this data when the Rideit app is running in the foreground (app open and on-screen) or background (app open but not on-screen) of their mobile device.
+ 
+This app must collect precise location data from their mobile devices because This may affect features in the Rideit apps. For example, a passenger who want to request ride for transportation. To enable google mapto function and provide rout the app need to get the current location of the passenger and the selected destionation.
 
 IV Transaction information 
 We collect transaction information related to the use of our services, including the payment transaction information (such as location and for calculation fee of transaction), trip information, date and time the service was provided, amount charged, distance traveled, and payment method. Additionally
@@ -46,7 +49,7 @@ Rideit uses personal data to enable reliable and convenient transportation ride 
 •	for customer support  
 •	for research and development  
 •	to enable communications between users 
-•	to enable user use the app
+•	to enable user to use all features of the app
 
 Ride does not sell or share user personal data with third parties for their direct except with users consent.Rideit uses data to provide, personalize, maintain, and improve our services.
 
@@ -56,7 +59,7 @@ This includes using data to:
 •	Payment calculation
 •	track and share the progress trips 
 •	personalize users’ accounts. We may, for example, update profile such (name, phone number and profile photo)
-•	perform necessary operations to maintain our services, including to troubleshoot software bugs and operational problems; to conduct data analysis, testing, and research; and to monitor and analyze usage and activity trends.
+•	perform necessary operations to maintain our services, including to troubleshoot software bugs and operational problems; to conduct data analysis, testing , research and to monitor and analyze usage and activity.
 
 V Safety and security
 We use personal data to help maintain the safety, security, and integrity of our services and users. This includes verifying users' identity and eligibility to provide transportation for passengers to help prevent use of our services by unsafe passengers and or driver.
@@ -64,7 +67,6 @@ We use personal data to help maintain the safety, security, and integrity of our
 Using device, location, user profile, usage, and other data to prevent, detect, and combat fraud. This includes identifying fraudulent accounts or uses of our services, preventing use of our services by unauthorized passengers verifying user identities and preventing and combating unauthorized access to users’ accounts.
 
 Sharing information regarding serious  safety incidents or compliance with local regulations with third parties, to prevent passengers or driver persons who may pose a safety risk to the platform or its users from using Rideit.
-
 
 
 VI Customer support
@@ -79,7 +81,7 @@ For example, a driver may message or call a passenger to confirm a pickup locati
 VIV Automated decision-making
 enabling dynamic pricing, in which the price of a ride, or the trip fee is determined based on constantly varying factors such as the estimated time and distance.
  
-•	using passenger location information, and communications between passenger and drivers, to identify cancellation fees earned or induced through fraud. For example, if we determine by using such information that a driver is delaying a rider pickup in order to induce a cancellation, we will not charge the rider a cancellation fee and will adjust the amounts paid to the driver to omit such a fee.
+•	Using passenger location information, and communications between passenger and drivers, to identify cancellation fees earned or induced through fraud. For example, if we determine by using such information that a driver is delaying a rider pickup in order to induce a cancellation, we will not charge the rider a cancellation fee and will adjust the amounts paid to the driver to omit such a fee.
 
 •	Using users data (such as location and rating ) to help avoid pairings of users that may result in increased risk of conflict.
 Rideit performs the above activities on the grounds that they are necessary to fulfill our obligations to users under our Terms of Use or other agreements with users, or on the grounds that they are necessary for purposes of the legitimate interests of Rideit Driver
